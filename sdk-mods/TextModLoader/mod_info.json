@@ -1,0 +1,23 @@
+{
+    "auto_enable": [
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Borderlands 2\\Binaries\\chest_patch.txt",
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Borderlands 2\\Binaries\\golden_chest.txt",
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Borderlands 2\\Binaries\\ucp.txt",
+        "ucp.txt"
+    ],
+    "mod_info": {
+        "ucp.txt": {
+            "is_mod_file": true,
+            "metadata": {
+                "@description": "Original author and published by shadowevil Credits to: 55tumbl, Aaron0000, Adudney, AngrierPat, apocalyptech, B33PB00PJOE, Dave Rabbit, empireScum, Freya, Ethel, FromDarkHell, Hydrattler, Jim Raven, Kazy, Kumakobi, laxlife, LightChaosman, MegaCyber, MikeyRay, mopioid, Orudeon, Our Lord And Savior Gabe Newell, SentySent, SirUmnei, the_Nocturni, Zububu"
+            },
+            "modify_time": 1696522658.6105435,
+            "recommended_game": "BL2",
+            "spark_service_idx": 0
+        }
+    },
+    "tml_version": [
+        1,
+        4
+    ]
+}

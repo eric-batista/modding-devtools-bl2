@@ -1,0 +1,13 @@
+{
+    "Options": {
+        "Speed": 10,
+        "Air Control": {
+            "Set Air Control": false,
+            "Air Control * 10": 10
+        }
+    },
+    "Keybinds": {
+        "Toggle active": "RightShift"
+    },
+    "AutoEnable": true
+}

@@ -1,0 +1,7 @@
+{
+    "Options": {
+        "Compress Saves": true,
+        "Reroll Vendors on Level Transitions": false
+    },
+    "AutoEnable": true
+}

@@ -6,7 +6,7 @@ class BackpackManager(BL2MOD):
 	Name = "Backpack Manager"
 	Description = "Customize the size of your character's backpack on the fly!"
 	Types = [ModTypes.Gameplay]
-	Author = "FromDarkHell"
+	Author: str = "eric-bolestero"
 
 	Options = [
 		Options.Slider("Backpack", "Change the size of your character's backpack<br>Default is 39", 39,0,200,1)
